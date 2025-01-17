@@ -1,4 +1,4 @@
-# Job Scraper README
+# MyJobScraper README
 
 ## Overview
 This script scrapes job listings from CareerJet (or similar job boards) using Python's `requests` and `BeautifulSoup` libraries. The collected data includes job titles, companies, locations, and salaries, which are then saved into a CSV file. 
